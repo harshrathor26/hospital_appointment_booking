@@ -1,3 +1,4 @@
+HEAD
 # 🏥 MediBook — Hospital Appointment Booking System
 
 A full-stack hospital appointment booking system built with **React.js** (frontend) and **Java Spring Boot** (backend) with **MySQL** database.
@@ -81,3 +82,6 @@ hospital_appointment_booking/
 │   └── vite.config.js
 └── DEPLOYMENT_GUIDE.md
 ```
+
+# hospital_appointment_booking
+
